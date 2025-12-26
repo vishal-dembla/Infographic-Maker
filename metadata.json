@@ -1,0 +1,7 @@
+{
+  "name": "The Editorial Engine",
+  "description": "A high-end editorial infographic maker with integrated Gemini-powered image editing capabilities. Design professional charts and use AI to transform visual assets with natural language commands.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
